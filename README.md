@@ -8,7 +8,7 @@ Karpathy-style single-source wiki Q&A project:
 - LLM answering: Azure OpenAI
 - No vector DB / embeddings / Chroma / FAISS / Pinecone
 
-## Project Flow
+## Project Flow_
 
 1. Build wiki from raw markdown headings and concept sections.
 2. Lint wiki quality and link integrity.
