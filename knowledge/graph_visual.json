@@ -1,0 +1,1669 @@
+{
+  "meta": {
+    "source_of_truth": "wiki/*.md",
+    "includes_source_sections": false,
+    "node_count": 123,
+    "edge_count": 233
+  },
+  "nodes": [
+    {
+      "id": "Abdominal Pain Needs Context",
+      "path": "overlaps/abdominal-pain-needs-context.md"
+    },
+    {
+      "id": "Abdominal Warning Signs",
+      "path": "warning-signs/abdominal-warning-signs.md"
+    },
+    {
+      "id": "Abdominal pain",
+      "path": "symptoms/abdominal-pain.md"
+    },
+    {
+      "id": "Acute Kidney Injury",
+      "path": "diseases/acute-kidney-injury.md"
+    },
+    {
+      "id": "Allergy Warning Signs",
+      "path": "warning-signs/allergy-warning-signs.md"
+    },
+    {
+      "id": "Anaphylaxis",
+      "path": "diseases/anaphylaxis.md"
+    },
+    {
+      "id": "Anemia",
+      "path": "diseases/anemia.md"
+    },
+    {
+      "id": "Angina",
+      "path": "diseases/angina.md"
+    },
+    {
+      "id": "Anxiety / Panic Attack",
+      "path": "diseases/anxiety-panic-attack.md"
+    },
+    {
+      "id": "Appendicitis",
+      "path": "diseases/appendicitis.md"
+    },
+    {
+      "id": "Asthma",
+      "path": "diseases/asthma.md"
+    },
+    {
+      "id": "Atrial Fibrillation",
+      "path": "diseases/atrial-fibrillation.md"
+    },
+    {
+      "id": "Biopsy",
+      "path": "investigations/biopsy.md"
+    },
+    {
+      "id": "Bleeding",
+      "path": "symptoms/bleeding.md"
+    },
+    {
+      "id": "Blood Cultures",
+      "path": "investigations/blood-cultures.md"
+    },
+    {
+      "id": "Blood Glucose",
+      "path": "investigations/blood-glucose.md"
+    },
+    {
+      "id": "Blood and Immune Diseases",
+      "path": "groups/blood-and-immune-diseases.md"
+    },
+    {
+      "id": "Breast Cancer",
+      "path": "diseases/breast-cancer.md"
+    },
+    {
+      "id": "Breathing Warning Signs",
+      "path": "warning-signs/breathing-warning-signs.md"
+    },
+    {
+      "id": "COPD / Chronic Obstructive Pulmonary Disease",
+      "path": "diseases/copd-chronic-obstructive-pulmonary-disease.md"
+    },
+    {
+      "id": "CT Brain",
+      "path": "investigations/ct-brain.md"
+    },
+    {
+      "id": "Cancer",
+      "path": "groups/cancer.md"
+    },
+    {
+      "id": "Cancer / General Pattern",
+      "path": "diseases/cancer-general-pattern.md"
+    },
+    {
+      "id": "Cardiology",
+      "path": "departments/cardiology.md"
+    },
+    {
+      "id": "Cardiovascular Diseases",
+      "path": "groups/cardiovascular-diseases.md"
+    },
+    {
+      "id": "Chest Pain Requires Careful Separation",
+      "path": "overlaps/chest-pain-requires-careful-separation.md"
+    },
+    {
+      "id": "Chest Pain Warning Signs",
+      "path": "warning-signs/chest-pain-warning-signs.md"
+    },
+    {
+      "id": "Chest X-ray",
+      "path": "investigations/chest-x-ray.md"
+    },
+    {
+      "id": "Chest pain",
+      "path": "symptoms/chest-pain.md"
+    },
+    {
+      "id": "Chronic Cough Changes the Pattern",
+      "path": "overlaps/chronic-cough-changes-the-pattern.md"
+    },
+    {
+      "id": "Chronic Kidney Disease",
+      "path": "diseases/chronic-kidney-disease.md"
+    },
+    {
+      "id": "Colonoscopy",
+      "path": "investigations/colonoscopy.md"
+    },
+    {
+      "id": "Colorectal Cancer",
+      "path": "diseases/colorectal-cancer.md"
+    },
+    {
+      "id": "Complete Blood Count",
+      "path": "investigations/complete-blood-count.md"
+    },
+    {
+      "id": "Confusion",
+      "path": "symptoms/confusion.md"
+    },
+    {
+      "id": "Confusion Is a Major Red Flag",
+      "path": "overlaps/confusion-is-a-major-red-flag.md"
+    },
+    {
+      "id": "Cough",
+      "path": "symptoms/cough.md"
+    },
+    {
+      "id": "Creatinine and eGFR",
+      "path": "investigations/creatinine-and-egfr.md"
+    },
+    {
+      "id": "Dementia / Alzheimer Disease Pattern",
+      "path": "diseases/dementia-alzheimer-disease-pattern.md"
+    },
+    {
+      "id": "Dengue",
+      "path": "diseases/dengue.md"
+    },
+    {
+      "id": "Depression",
+      "path": "diseases/depression.md"
+    },
+    {
+      "id": "Diabetic Ketoacidosis",
+      "path": "diseases/diabetic-ketoacidosis.md"
+    },
+    {
+      "id": "ECG",
+      "path": "investigations/ecg.md"
+    },
+    {
+      "id": "Echocardiogram",
+      "path": "investigations/echocardiogram.md"
+    },
+    {
+      "id": "Ectopic Pregnancy",
+      "path": "diseases/ectopic-pregnancy.md"
+    },
+    {
+      "id": "Emergency Medicine",
+      "path": "departments/emergency-medicine.md"
+    },
+    {
+      "id": "Endocrine and Metabolic Diseases",
+      "path": "groups/endocrine-and-metabolic-diseases.md"
+    },
+    {
+      "id": "Endocrinology",
+      "path": "departments/endocrinology.md"
+    },
+    {
+      "id": "Epileptic Seizure",
+      "path": "diseases/epileptic-seizure.md"
+    },
+    {
+      "id": "Fever",
+      "path": "symptoms/fever.md"
+    },
+    {
+      "id": "Fever Is Nonspecific",
+      "path": "overlaps/fever-is-nonspecific.md"
+    },
+    {
+      "id": "GERD / Gastroesophageal Reflux Disease",
+      "path": "diseases/gerd-gastroesophageal-reflux-disease.md"
+    },
+    {
+      "id": "Gallstones / Cholecystitis",
+      "path": "diseases/gallstones-cholecystitis.md"
+    },
+    {
+      "id": "Gastroenterology",
+      "path": "departments/gastroenterology.md"
+    },
+    {
+      "id": "Gastrointestinal and Liver Diseases",
+      "path": "groups/gastrointestinal-and-liver-diseases.md"
+    },
+    {
+      "id": "General Surgery",
+      "path": "departments/general-surgery.md"
+    },
+    {
+      "id": "Headache",
+      "path": "symptoms/headache.md"
+    },
+    {
+      "id": "Heart Attack / Myocardial Infarction",
+      "path": "diseases/heart-attack-myocardial-infarction.md"
+    },
+    {
+      "id": "Heart Failure",
+      "path": "diseases/heart-failure.md"
+    },
+    {
+      "id": "Hematology",
+      "path": "departments/hematology.md"
+    },
+    {
+      "id": "Hepatitis B",
+      "path": "diseases/hepatitis-b.md"
+    },
+    {
+      "id": "Hospital Disease Wiki \u2014 Index",
+      "path": "index.md"
+    },
+    {
+      "id": "Hypertension / High Blood Pressure",
+      "path": "diseases/hypertension-high-blood-pressure.md"
+    },
+    {
+      "id": "Hypoglycemia",
+      "path": "diseases/hypoglycemia.md"
+    },
+    {
+      "id": "Infection Warning Signs",
+      "path": "warning-signs/infection-warning-signs.md"
+    },
+    {
+      "id": "Infectious Disease",
+      "path": "departments/infectious-disease.md"
+    },
+    {
+      "id": "Infectious Diseases",
+      "path": "groups/infectious-diseases.md"
+    },
+    {
+      "id": "Inflammatory Bowel Disease",
+      "path": "diseases/inflammatory-bowel-disease.md"
+    },
+    {
+      "id": "Influenza / Flu-like Illness",
+      "path": "diseases/influenza-flu-like-illness.md"
+    },
+    {
+      "id": "Joint pain",
+      "path": "symptoms/joint-pain.md"
+    },
+    {
+      "id": "Kidney and Urinary Diseases",
+      "path": "groups/kidney-and-urinary-diseases.md"
+    },
+    {
+      "id": "Leukemia",
+      "path": "diseases/leukemia.md"
+    },
+    {
+      "id": "Liver Cirrhosis",
+      "path": "diseases/liver-cirrhosis.md"
+    },
+    {
+      "id": "Liver Function Tests",
+      "path": "investigations/liver-function-tests.md"
+    },
+    {
+      "id": "Lumbar Puncture",
+      "path": "investigations/lumbar-puncture.md"
+    },
+    {
+      "id": "Lung Cancer",
+      "path": "diseases/lung-cancer.md"
+    },
+    {
+      "id": "Lymphoma",
+      "path": "diseases/lymphoma.md"
+    },
+    {
+      "id": "MRI Brain",
+      "path": "investigations/mri-brain.md"
+    },
+    {
+      "id": "Malaria",
+      "path": "diseases/malaria.md"
+    },
+    {
+      "id": "Meningitis",
+      "path": "diseases/meningitis.md"
+    },
+    {
+      "id": "Mental Health and Cognitive Conditions",
+      "path": "groups/mental-health-and-cognitive-conditions.md"
+    },
+    {
+      "id": "Migraine",
+      "path": "diseases/migraine.md"
+    },
+    {
+      "id": "Nephrology",
+      "path": "departments/nephrology.md"
+    },
+    {
+      "id": "Neurological Warning Signs",
+      "path": "warning-signs/neurological-warning-signs.md"
+    },
+    {
+      "id": "Neurology",
+      "path": "departments/neurology.md"
+    },
+    {
+      "id": "Obstetrics and Gynecology",
+      "path": "departments/obstetrics-and-gynecology.md"
+    },
+    {
+      "id": "Oncology",
+      "path": "departments/oncology.md"
+    },
+    {
+      "id": "Palpitations",
+      "path": "symptoms/palpitations.md"
+    },
+    {
+      "id": "Pancreatitis",
+      "path": "diseases/pancreatitis.md"
+    },
+    {
+      "id": "Peptic Ulcer Disease",
+      "path": "diseases/peptic-ulcer-disease.md"
+    },
+    {
+      "id": "Platelet Count",
+      "path": "investigations/platelet-count.md"
+    },
+    {
+      "id": "Pneumonia",
+      "path": "diseases/pneumonia.md"
+    },
+    {
+      "id": "Preeclampsia",
+      "path": "diseases/preeclampsia.md"
+    },
+    {
+      "id": "Pregnancy Test",
+      "path": "investigations/pregnancy-test.md"
+    },
+    {
+      "id": "Pregnancy Warning Signs",
+      "path": "warning-signs/pregnancy-warning-signs.md"
+    },
+    {
+      "id": "Psychiatry",
+      "path": "departments/psychiatry.md"
+    },
+    {
+      "id": "Pulmonary Embolism",
+      "path": "diseases/pulmonary-embolism.md"
+    },
+    {
+      "id": "Pulmonology",
+      "path": "departments/pulmonology.md"
+    },
+    {
+      "id": "Rash",
+      "path": "symptoms/rash.md"
+    },
+    {
+      "id": "Respiratory Diseases",
+      "path": "groups/respiratory-diseases.md"
+    },
+    {
+      "id": "Rheumatoid Arthritis",
+      "path": "diseases/rheumatoid-arthritis.md"
+    },
+    {
+      "id": "Rheumatology",
+      "path": "departments/rheumatology.md"
+    },
+    {
+      "id": "Risk Factors Modify Interpretation",
+      "path": "overlaps/risk-factors-modify-interpretation.md"
+    },
+    {
+      "id": "Seizure",
+      "path": "symptoms/seizure.md"
+    },
+    {
+      "id": "Sepsis",
+      "path": "diseases/sepsis.md"
+    },
+    {
+      "id": "Shortness of Breath Has Many Body-System Causes",
+      "path": "overlaps/shortness-of-breath-has-many-body-system-causes.md"
+    },
+    {
+      "id": "Shortness of breath",
+      "path": "symptoms/shortness-of-breath.md"
+    },
+    {
+      "id": "Spirometry",
+      "path": "investigations/spirometry.md"
+    },
+    {
+      "id": "Sputum Test",
+      "path": "investigations/sputum-test.md"
+    },
+    {
+      "id": "Stroke",
+      "path": "diseases/stroke.md"
+    },
+    {
+      "id": "Stroke Warning Signs",
+      "path": "warning-signs/stroke-warning-signs.md"
+    },
+    {
+      "id": "Swelling",
+      "path": "symptoms/swelling.md"
+    },
+    {
+      "id": "Systemic Lupus Erythematosus",
+      "path": "diseases/systemic-lupus-erythematosus.md"
+    },
+    {
+      "id": "Troponin",
+      "path": "investigations/troponin.md"
+    },
+    {
+      "id": "Tuberculosis",
+      "path": "diseases/tuberculosis.md"
+    },
+    {
+      "id": "Type 2 Diabetes Mellitus",
+      "path": "diseases/type-2-diabetes-mellitus.md"
+    },
+    {
+      "id": "Ultrasound Abdomen",
+      "path": "investigations/ultrasound-abdomen.md"
+    },
+    {
+      "id": "Urinalysis",
+      "path": "investigations/urinalysis.md"
+    },
+    {
+      "id": "Urinary Tract Infection",
+      "path": "diseases/urinary-tract-infection.md"
+    },
+    {
+      "id": "Vomiting",
+      "path": "symptoms/vomiting.md"
+    },
+    {
+      "id": "Weight Loss Is Important When Persistent and Unexplained",
+      "path": "overlaps/weight-loss-is-important-when-persistent-and-unexplained.md"
+    },
+    {
+      "id": "Weight loss",
+      "path": "symptoms/weight-loss.md"
+    },
+    {
+      "id": "Wiki Change Log",
+      "path": "log.md"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Acute Kidney Injury",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Acute Kidney Injury",
+      "target": "Nephrology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Anaphylaxis",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Anemia",
+      "target": "Hematology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Angina",
+      "target": "ECG",
+      "type": "wikilink"
+    },
+    {
+      "source": "Angina",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Angina",
+      "target": "Cardiology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Angina",
+      "target": "GERD / Gastroesophageal Reflux Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Anxiety / Panic Attack",
+      "target": "Psychiatry",
+      "type": "wikilink"
+    },
+    {
+      "source": "Appendicitis",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Appendicitis",
+      "target": "General Surgery",
+      "type": "wikilink"
+    },
+    {
+      "source": "Asthma",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Asthma",
+      "target": "Pulmonology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Asthma",
+      "target": "COPD / Chronic Obstructive Pulmonary Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Atrial Fibrillation",
+      "target": "ECG",
+      "type": "wikilink"
+    },
+    {
+      "source": "Atrial Fibrillation",
+      "target": "Cardiology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Atrial Fibrillation",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Breast Cancer",
+      "target": "Oncology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Cancer / General Pattern",
+      "target": "Oncology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Chronic Kidney Disease",
+      "target": "Nephrology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Chronic Kidney Disease",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Colorectal Cancer",
+      "target": "Gastroenterology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Colorectal Cancer",
+      "target": "Oncology",
+      "type": "wikilink"
+    },
+    {
+      "source": "COPD / Chronic Obstructive Pulmonary Disease",
+      "target": "ECG",
+      "type": "wikilink"
+    },
+    {
+      "source": "COPD / Chronic Obstructive Pulmonary Disease",
+      "target": "Pulmonology",
+      "type": "wikilink"
+    },
+    {
+      "source": "COPD / Chronic Obstructive Pulmonary Disease",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Dementia / Alzheimer Disease Pattern",
+      "target": "Neurology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Dementia / Alzheimer Disease Pattern",
+      "target": "Psychiatry",
+      "type": "wikilink"
+    },
+    {
+      "source": "Dengue",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Dengue",
+      "target": "Infectious Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Depression",
+      "target": "Psychiatry",
+      "type": "wikilink"
+    },
+    {
+      "source": "Diabetic Ketoacidosis",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Diabetic Ketoacidosis",
+      "target": "Endocrinology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Ectopic Pregnancy",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Ectopic Pregnancy",
+      "target": "Obstetrics and Gynecology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Epileptic Seizure",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Epileptic Seizure",
+      "target": "Neurology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Gallstones / Cholecystitis",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Gallstones / Cholecystitis",
+      "target": "General Surgery",
+      "type": "wikilink"
+    },
+    {
+      "source": "Gallstones / Cholecystitis",
+      "target": "Gastroenterology",
+      "type": "wikilink"
+    },
+    {
+      "source": "GERD / Gastroesophageal Reflux Disease",
+      "target": "Gastroenterology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Heart Attack / Myocardial Infarction",
+      "target": "ECG",
+      "type": "wikilink"
+    },
+    {
+      "source": "Heart Attack / Myocardial Infarction",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Heart Attack / Myocardial Infarction",
+      "target": "Cardiology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Heart Attack / Myocardial Infarction",
+      "target": "GERD / Gastroesophageal Reflux Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Heart Failure",
+      "target": "ECG",
+      "type": "wikilink"
+    },
+    {
+      "source": "Heart Failure",
+      "target": "Cardiology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Heart Failure",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Heart Failure",
+      "target": "Nephrology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Heart Failure",
+      "target": "COPD / Chronic Obstructive Pulmonary Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hepatitis B",
+      "target": "Infectious Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hepatitis B",
+      "target": "Gastroenterology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hypertension / High Blood Pressure",
+      "target": "ECG",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hypertension / High Blood Pressure",
+      "target": "Cardiology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hypertension / High Blood Pressure",
+      "target": "Nephrology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hypertension / High Blood Pressure",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hypoglycemia",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hypoglycemia",
+      "target": "Endocrinology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Inflammatory Bowel Disease",
+      "target": "Gastroenterology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Inflammatory Bowel Disease",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Influenza / Flu-like Illness",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Leukemia",
+      "target": "Hematology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Leukemia",
+      "target": "Oncology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Liver Cirrhosis",
+      "target": "Gastroenterology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Liver Cirrhosis",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Lung Cancer",
+      "target": "Pulmonology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Lung Cancer",
+      "target": "Oncology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Lung Cancer",
+      "target": "COPD / Chronic Obstructive Pulmonary Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Lymphoma",
+      "target": "Hematology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Lymphoma",
+      "target": "Oncology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Malaria",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Malaria",
+      "target": "Infectious Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Meningitis",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Meningitis",
+      "target": "Neurology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Meningitis",
+      "target": "Infectious Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Migraine",
+      "target": "Neurology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pancreatitis",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pancreatitis",
+      "target": "Gastroenterology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pancreatitis",
+      "target": "General Surgery",
+      "type": "wikilink"
+    },
+    {
+      "source": "Peptic Ulcer Disease",
+      "target": "Gastroenterology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Peptic Ulcer Disease",
+      "target": "GERD / Gastroesophageal Reflux Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pneumonia",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pneumonia",
+      "target": "Pulmonology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pneumonia",
+      "target": "Infectious Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Preeclampsia",
+      "target": "Obstetrics and Gynecology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Preeclampsia",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pulmonary Embolism",
+      "target": "ECG",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pulmonary Embolism",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pulmonary Embolism",
+      "target": "Pulmonology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pulmonary Embolism",
+      "target": "Cardiology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Pulmonary Embolism",
+      "target": "Hematology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Rheumatoid Arthritis",
+      "target": "Rheumatology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Sepsis",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Sepsis",
+      "target": "Infectious Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Stroke",
+      "target": "ECG",
+      "type": "wikilink"
+    },
+    {
+      "source": "Stroke",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Stroke",
+      "target": "Neurology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Systemic Lupus Erythematosus",
+      "target": "Rheumatology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Systemic Lupus Erythematosus",
+      "target": "Nephrology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Tuberculosis",
+      "target": "Pulmonology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Tuberculosis",
+      "target": "Infectious Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Tuberculosis",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Tuberculosis",
+      "target": "COPD / Chronic Obstructive Pulmonary Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Type 2 Diabetes Mellitus",
+      "target": "Endocrinology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Type 2 Diabetes Mellitus",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Type 2 Diabetes Mellitus",
+      "target": "Nephrology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Urinary Tract Infection",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Blood and Immune Diseases",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Cancer",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Cardiovascular Diseases",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Endocrine and Metabolic Diseases",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Gastrointestinal and Liver Diseases",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Infectious Diseases",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Kidney and Urinary Diseases",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Mental Health and Cognitive Conditions",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Respiratory Diseases",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Acute Kidney Injury",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Anaphylaxis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Anemia",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Angina",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Anxiety / Panic Attack",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Appendicitis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Asthma",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Atrial Fibrillation",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Breast Cancer",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "COPD / Chronic Obstructive Pulmonary Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Cancer / General Pattern",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Chronic Kidney Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Colorectal Cancer",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Dementia / Alzheimer Disease Pattern",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Dengue",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Depression",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Diabetic Ketoacidosis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Ectopic Pregnancy",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Epileptic Seizure",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "GERD / Gastroesophageal Reflux Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Gallstones / Cholecystitis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Heart Attack / Myocardial Infarction",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Heart Failure",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Hepatitis B",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Hypertension / High Blood Pressure",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Hypoglycemia",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Inflammatory Bowel Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Influenza / Flu-like Illness",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Leukemia",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Liver Cirrhosis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Lung Cancer",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Lymphoma",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Malaria",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Meningitis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Migraine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Pancreatitis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Peptic Ulcer Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Pneumonia",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Preeclampsia",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Pulmonary Embolism",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Rheumatoid Arthritis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Sepsis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Stroke",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Systemic Lupus Erythematosus",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Tuberculosis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Type 2 Diabetes Mellitus",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Urinary Tract Infection",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Abdominal pain",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Bleeding",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Chest pain",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Confusion",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Cough",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Fever",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Headache",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Joint pain",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Palpitations",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Rash",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Seizure",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Shortness of breath",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Swelling",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Vomiting",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Weight loss",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Abdominal Warning Signs",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Allergy Warning Signs",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Breathing Warning Signs",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Chest Pain Warning Signs",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Infection Warning Signs",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Neurological Warning Signs",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Pregnancy Warning Signs",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Stroke Warning Signs",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Biopsy",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Blood Cultures",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Blood Glucose",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "CT Brain",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Chest X-ray",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Colonoscopy",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Complete Blood Count",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Creatinine and eGFR",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "ECG",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Echocardiogram",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Liver Function Tests",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Lumbar Puncture",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "MRI Brain",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Platelet Count",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Pregnancy Test",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Spirometry",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Sputum Test",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Troponin",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Ultrasound Abdomen",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Urinalysis",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Cardiology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Emergency Medicine",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Endocrinology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Gastroenterology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "General Surgery",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Hematology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Infectious Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Nephrology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Neurology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Obstetrics and Gynecology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Oncology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Psychiatry",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Pulmonology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Rheumatology",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Abdominal Pain Needs Context",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Chest Pain Requires Careful Separation",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Chronic Cough Changes the Pattern",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Confusion Is a Major Red Flag",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Fever Is Nonspecific",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Risk Factors Modify Interpretation",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Shortness of Breath Has Many Body-System Causes",
+      "type": "wikilink"
+    },
+    {
+      "source": "Hospital Disease Wiki \u2014 Index",
+      "target": "Weight Loss Is Important When Persistent and Unexplained",
+      "type": "wikilink"
+    },
+    {
+      "source": "Wiki Change Log",
+      "target": "General Surgery",
+      "type": "wikilink"
+    },
+    {
+      "source": "Chest pain",
+      "target": "GERD / Gastroesophageal Reflux Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Cough",
+      "target": "COPD / Chronic Obstructive Pulmonary Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Cough",
+      "target": "GERD / Gastroesophageal Reflux Disease",
+      "type": "wikilink"
+    },
+    {
+      "source": "Shortness of breath",
+      "target": "COPD / Chronic Obstructive Pulmonary Disease",
+      "type": "wikilink"
+    }
+  ]
+}
