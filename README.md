@@ -33,14 +33,10 @@ The source file is immutable truth. Do not edit it from scripts.
 
 ## Azure OpenAI Configuration
 
-Copy values to `.env`:
-
 - `AZURE_OPENAI_ENDPOINT`
 - `AZURE_OPENAI_API_KEY`
 - `AZURE_OPENAI_DEPLOYMENT`
 - `AZURE_OPENAI_API_VERSION`
-
-Template is already included in `.env.example`.
 
 ## Build Wiki
 
